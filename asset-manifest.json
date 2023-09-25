@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.72600249.css",
+    "main.js": "/Portfolio/static/js/main.ddbcdf59.js",
+    "static/media/Badge_Photo.jpg": "/Portfolio/static/media/Badge_Photo.7bfa17f42f4e87facb58.jpg",
+    "static/media/intro.jpg": "/Portfolio/static/media/intro.8f8d38e787317951de48.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.72600249.css.map": "/Portfolio/static/css/main.72600249.css.map",
+    "main.ddbcdf59.js.map": "/Portfolio/static/js/main.ddbcdf59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72600249.css",
+    "static/js/main.ddbcdf59.js"
+  ]
+}
